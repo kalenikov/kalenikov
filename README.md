@@ -2,6 +2,7 @@
 #### subtitle text
 about me
 ![](https://img.shields.io/badge/java-%3E%3D%208%20-orange)
+![](https://img.shields.io/badge/maven-3-red)
 
 Skills: Java 
 React
