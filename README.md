@@ -16,18 +16,31 @@
 ---
 
 #### My study projects
-- Passport (Spring Boot (Data), REST, Kafka, Docker)
-- REST (Spring Boot (Web, Data, Security, Test), REST, JWT)
-- Forum (Spring Boot (Data, Security, Test), JSP, JSTL, PostgreSQL, Heroku)
-- Car accident (Spring (MVC, Data, Security), JSP, JSTL, JDBC, Hibernate, Tomcat)
-- Cinema (Servlets, PostgreSQL, JDBC, Liquibase, JUnit4, JS)
-- Car sales (Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito)
-- ToDo list (Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, Tomcat, JS)
-- Dream job (Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito)
-- Pooh JMS (Concurrency, Sockets, Java IO, GSON)
-- Grabber (PostgreSQL, JDBC, Liquibase, Quartz, JSOUP)
-- Tracker (PostgreSQL, JDBC, Liquibase, JUnit4)
-- Zip, find utilities (Java IO, Java NIO)
+- [topjava test project](https://github.com/kalenikov/JavaRushIntership) 
+- [topjava test project](https://github.com/kalenikov/topjava) 
+- [Chats](https://github.com/kalenikov/job4j_chat) bla
+- [Discovery](https://github.com/kalenikov/job4j_discovery) bla
+- [Bank](https://github.com/kalenikov/job4j_bank) bla
+- [Urls shortener](https://github.com/kalenikov/job4j_url_shortcut) bla
+- [Passport](https://github.com/kalenikov/job4j_passport) (Spring Boot (Data), REST, Kafka, Docker)
+- [REST](https://github.com/kalenikov/job4j_rest) (Spring Boot (Web, Data, Security, Test), REST, JWT)
+- [Forum](https://github.com/kalenikov/job4j_forum) (Spring Boot (Data, Security, Test), JSP, JSTL, PostgreSQL, Heroku)
+- [Car accident](https://github.com/kalenikov/job4j_car_accident) (Spring (MVC, Data, Security), JSP, JSTL, JDBC, Hibernate, Tomcat)
+- [Cinema](https://github.com/kalenikov/job4j_car_accident) (Servlets, PostgreSQL, JDBC, Liquibase, JUnit4, JS)
+- [Car sales](https://github.com/kalenikov/job4j_cars) (Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito)
+- [ToDo list](https://github.com/kalenikov/job4j_todo) (Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, Tomcat, JS)
+- [Dream job](https://github.com/kalenikov/job4j_dreamjob) (Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito)
+- [Pooh JMS](https://github.com/kalenikov/job4j_pooh) (Concurrency, Sockets, Java IO, GSON)
+- [Grabber](https://github.com/kalenikov/job4j_grabber) (PostgreSQL, JDBC, Liquibase, Quartz, JSOUP)
+- [Tracker](https://github.com/kalenikov/job4j_tracker) (PostgreSQL, JDBC, Liquibase, JUnit4)
+- [Zip, find utilities]() (Java IO, Java NIO)
+- [bla](url) bla
+- https://github.com/kalenikov/job4j_weather
+- https://github.com/kalenikov/job4j_elementary
+- https://github.com/kalenikov/job4j_threads
+- https://github.com/kalenikov/job4j_design
+- 
+- 
 
 ---
 Chat in rooms
