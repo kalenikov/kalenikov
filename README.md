@@ -17,6 +17,12 @@
 
 ### Study projects
 
+| name           | description                                          | technology                                                              | url                                             |   |
+|----------------|------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------|---|
+| Urls shortener | URLs shortener service with usage statistics.        | Spring Boot, Spring Security & JWT authorization, Data JPA, PostgresSQL | https://github.com/kalenikov/job4j_url_shortcut |   |
+| Chat           | REST-service chat rooms with JWT-authorization .     | Spring Boot, Spring Security & JWT authorization, Data JPA, PostgresSQL |                                                 |   |
+| Passports      | Checking expired passports in a microservice system. | Spring Boot, Kafka, Docker, Kafka, Liquibase                            |                                                 |   |
+
 - #### [Urls shortener](https://github.com/kalenikov/job4j_url_shortcut)
   URLs shortener service with usage statistics.
 
