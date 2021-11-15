@@ -31,35 +31,17 @@
 | [Dream job](https://github.com/kalenikov/job4j_dreamjob)          | Job search service with registration users. CRUD vacancy and candidates, load photo                            | Servlets, JSP, JSTL PostgreSQL, JDBC, AJAX, Liquibase, JS Jquery, Bootstrap Liquibase Hibernate |
 | [Grabber](https://github.com/kalenikov/job4j_grabber)             | Console jobs parser from sql.ru                                                                                | PostgreSQL, JDBC, Liquibase, JSOUP, PostgreSQL, Quartz                                          |
 | [Tracker](https://github.com/kalenikov/job4j_tracker)             | Console task tracker with CRUD-operations                                                                      | PostgresSQL, JDBC, Hibernate, Spring Data                                                       |
+| [Topjava Internship Test Task](https://github.com/kalenikov/JavaRushIntership)  | Topjava Internship Test Task                                                                     | PostgresSQL, JDBC, Hibernate, Spring Data                                                       |
+| [Weather](https://github.com/kalenikov/job4j_weather) | Консольное приложение для определения температуры по разным городам.                                                                   | Spring (boot / WebFlux), REST API, Gradle, Checkstyle|
 
+##### Others study projects
 
-- #### [Pooh JMS](https://github.com/kalenikov/job4j_pooh)
-  Аналог сервиса асинхронной очереди RabbitMQ. Пример применения многопоточности Стек: Java SE 14, ExecutorService,
-  Maven, JUnit, Mockito, TravisCI, JaCoCo, Checkstyle Concurrency, Sockets, Java IO, GSON
-
-
-  
-
-
-- https://github.com/kalenikov/job4j_weather
-  Стек: Spring (boot / WebFlux), REST API, Gradle, Checkstyle
-- Консольное приложение для определения температуры по разным городам.
--
-- https://github.com/kalenikov/job4j_elementary
-  Задачи из Java Core. Учебный репозиторий курса job4j
-- Стек: Java SE 14, ООП, Collections, Lambda, StreamAPI, IO/NIO, Socket, ООД, GC
-
-- https://github.com/kalenikov/job4j_threads
-- https://github.com/kalenikov/job4j_design
--
-
-- [topjava test project](https://github.com/kalenikov/JavaRushIntership)
-
-- [topjava project](https://github.com/kalenikov/topjava)
-
-- [Discovery](https://github.com/kalenikov/job4j_discovery) bla
-
-- [Bank](https://github.com/kalenikov/job4j_bank) bla
+- https://github.com/kalenikov/job4j_pooh (Sockets, ExecutorService)
+- https://github.com/kalenikov/job4j_elementary (Core)
+- https://github.com/kalenikov/job4j_threads (Concurrent)
+- https://github.com/kalenikov/job4j_design (Advanced Core, Lambda, IO, Generics, Concurrent)
+- https://github.com/kalenikov/job4j_discovery (Example Eureka discovery)
+- https://github.com/kalenikov/job4j_bank (Small microservice system)
 
 #### My statistics on GitHub:
 
