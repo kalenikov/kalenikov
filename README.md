@@ -15,9 +15,9 @@
 
 ---
 
-#### Study projects
+### Study projects
 
-- ##### [Urls shortener](https://github.com/kalenikov/job4j_url_shortcut)
+- #### [Urls shortener](https://github.com/kalenikov/job4j_url_shortcut)
 
   URLs shortener service with usage statistics.
 
