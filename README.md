@@ -20,75 +20,59 @@
 - #### [Urls shortener](https://github.com/kalenikov/job4j_url_shortcut)
   URLs shortener service with usage statistics.
 
-  Spring Boot 2, Spring Security & JWT authorization, Spring Data JPA, PostgresSQL
+  Spring Boot, Spring Security & JWT authorization, Data JPA, PostgresSQL
 
 
 - #### [Chat](https://github.com/kalenikov/job4j_chat)
   REST-service chat rooms with JWT-authorization .
 
-  RestTemplate PostgresSQL, Hibernate, Spring Boot / Security / Rest / Data / RestTemplate, JWT, Junit, Mockito Spring
-  Boot 2 Data JPA, Security, Web, REST API, Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
+  Spring Boot, Spring Security & JWT authorization, Data JPA, PostgresSQL
 
 
 - #### [Passport](https://github.com/kalenikov/job4j_passport)
   Checking expired passports in a microservice system.
 
-  Spring Boot (Data), REST, Kafka, Docker, Kafka, Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase,
-  PostgresSQL, TravisCI, JaCoCo, Checkstyle
+  Spring Boot, Kafka, Docker, Kafka, Liquibase
 
 
 - #### [REST](https://github.com/kalenikov/job4j_rest)
   Обучающий проект на REST.
 
-  Spring Boot (Web, Data, Security, Test), REST, JWT, Spring Boot (Data JPA, Security, Web, Test), REST API, Liquibase,
-  PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
+  Spring Boot (Web, Data, Security, Test), REST, JWT, PostgresSQL
 
 
 - #### [Forum](https://github.com/kalenikov/job4j_forum)
-  Classical web-forum with registration users. Create, update, delete topics for discussion Spring Boot (Data, Security,
-  Test), JSP, JSTL, PostgreSQL, Heroku
+  Classical web-forum with registration users and CRUD
 
-  PostgresSQL, Hibernate, Spring Boot / Security / Data, JSP, CSS, JS, JSTL, HTML, Log4j, Junit, Mockito Spring Boot (
-  Data JPA, Security, Web, Test), Liquibase, PostgresSQL, JUnit, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
-
+  Spring Boot (Web, Data, Security, Test), JSP, JSTL, Bootstrap, JS, PostgresSQL, Heroku
 
 - #### [Car accident](https://github.com/kalenikov/job4j_car_accident)
   Registration, authorization users. Registration, update, delete accident in road. May choose category and type
 
-  Spring (MVC, Data, Security), JSP, JSTL, JDBC, Hibernate, Tomcat PostgresSQL, Hibernate, JDBC, Spring Boot / Security
-  / Data, JSP, JSTL, Log4j, Junit Стек: Spring (WebMVC, Data, JDBC, ORM, Security), Hibernate, PostgreSQL, Liquibase,
-  Tomcat, JUnit, log4j, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
+  Spring (MVC, Data, Security), JSP, JSTL, Bootstrap, JS, PostgresSQL, Heroku
 
 
 - #### [Cinema](https://github.com/kalenikov/job4j_cinema)
-  Selection of seats in the hall and then payment
+  Cinema-service with seat reservation and then payment
 
-  Servlets, PostgreSQL, JDBC, Liquibase, JUnit4, JS PostgresSQL, JDBC, Apache Tomcat, Servlet, JS, JSP, Jquery, Ajax,
-  Log4j Servlets, PostgreSQL, JDBC, PostgreSQL, Tomcat, JUnit, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
+  Servlets, JSP, JSTL , JDBC, Liquibase, JS Jquery, Ajax Bootstrap Liquibase Mockito
 
 
 - #### [Cars](https://github.com/kalenikov/job4j_cars)
-  Registration, authorization users. Create, update advertisements, load photo
+  This project represent cars bulletin board web-service with registration users and upload photos Java Servlet API,
 
-  Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito PostgresSQL, Hibernate, Apache FileUpload,
-  Apache Tomcat, Servlet, JSP, CSS, JS, JSTL, HTML, Jquery, Ajax, Log4j, Junit Стек: Servlets, Hibernate, PostgreSQL,
-  Tomcat, JUnit, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
+  Servlets, JSP, JSTL PostgreSQL, JDBC, Liquibase, JS Jquery, Ajax Bootstrap Liquibase Hibernate
 
 
 - #### [Todo-list](https://github.com/kalenikov/job4j_todo)
   Classic todo-app with CRUD
 
-  Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, Tomcat, JS PostgresSQL, Hibernate, Apache Tomcat,
-  Servlet, JS, JSP, Jquery, Ajax, Log4j, Junit Servlets, Hibernate, PostgreSQL, Tomcat, JUnit, Mockito, TravisCI,
-  JaCoCo, AJAX, JSON, HTML, Checkstyle Hibernate, AJAX, PostgreSQL, Servlet, JSP, Tomcat
+  Servlets, JSP, JSTL PostgreSQL, JDBC, AJAX, Liquibase, JS Jquery, Bootstrap Liquibase Hibernate
 
 - #### [Dream job](https://github.com/kalenikov/job4j_dreamjob)
-  CRUD MVC веб-приложение(JDBC, PostgreSQL, Servlet, JSP, Tomcat)
-  Registration, authorization users. Create, update, delete vacancy and candidates, load photo
+  Job search service with registration users. CRUD vacancy and candidates, load photo
 
-  Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito PostgresSQL, JDBC, Apache FileUpload, Apache Tomcat,
-  Servlet, JSP, CSS, JS, JSTL, HTML, Jquery, Ajax, Log4j, Junit Стек: Servlets, PostgreSQL, JDBC, Tomcat, JUnit,
-  Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
+  Servlets, JSP, JSTL PostgreSQL, JDBC, AJAX, Liquibase, JS Jquery, Bootstrap Liquibase Hibernate
 
 
 - #### [Pooh JMS](https://github.com/kalenikov/job4j_pooh)
@@ -100,7 +84,7 @@
   Junit, TravisCI, JaCoCo, Checkstyle
 
 - #### [Tracker](https://github.com/kalenikov/job4j_tracker)
-  Study console task tracker with CRUD-operations
+  Console task tracker with CRUD-operations
 
   PostgresSQL, JDBC, Hibernate, Spring Data
 
