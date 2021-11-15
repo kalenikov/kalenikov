@@ -17,36 +17,28 @@
 
 ### Study projects
 
-- #### [Urls shortener](https://github.com/kalenikov/job4j_url_shortcut)
-  URLs shortener service with usage statistics.
+- #### [Urls shortener](https://github.com/kalenikov/job4j_url_shortcut) [service with usage statistics]
 
-  Spring Boot 2, Spring Security & JWT authorization, Spring Data JPA, PostgresSQL
+Spring Boot 2, Spring Security & JWT authorization, Spring Data JPA, PostgresSQL
 
+- #### [Chat](https://github.com/kalenikov/job4j_chat) [ REST-service chat rooms with JWT-authorization]
 
-- #### [Chat](https://github.com/kalenikov/job4j_chat)
-  REST-service chat rooms with JWT-authorization .
+RestTemplate PostgresSQL, Hibernate, Spring Boot / Security / Rest / Data / RestTemplate, JWT, Junit, Mockito Spring
+Boot 2 Data JPA, Security, Web, REST API, Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
 
-  RestTemplate PostgresSQL, Hibernate, Spring Boot / Security / Rest / Data / RestTemplate, JWT, Junit, Mockito Spring
-  Boot 2 Data JPA, Security, Web, REST API, Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
+- #### [Passport](https://github.com/kalenikov/job4j_passport) [Checking expired passports in a microservice system]
 
+Spring Boot (Data), REST, Kafka, Docker, Kafka, Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase,
+PostgresSQL, TravisCI, JaCoCo, Checkstyle
 
-- #### [Passport](https://github.com/kalenikov/job4j_passport)
-  Checking expired passports in a microservice system.
-
-  Spring Boot (Data), REST, Kafka, Docker, Kafka, Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase,
-  PostgresSQL, TravisCI, JaCoCo, Checkstyle
-
-
-- #### [REST](https://github.com/kalenikov/job4j_rest)
-  Обучающий проект на REST.
+- #### [REST](https://github.com/kalenikov/job4j_rest) [Обучающий проект на REST]
 
   Spring Boot (Web, Data, Security, Test), REST, JWT, Spring Boot (Data JPA, Security, Web, Test), REST API, Liquibase,
   PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
 
 
-- #### [Forum](https://github.com/kalenikov/job4j_forum)
-  Classical web-forum with registration users. Create, update, delete topics for discussion Spring Boot (Data, Security,
-  Test), JSP, JSTL, PostgreSQL, Heroku
+- #### [Forum](https://github.com/kalenikov/job4j_forum) [Classical web-app with registration users]
+  Spring Boot (Data, Security, Test), JSP, JSTL, PostgreSQL, Heroku
 
   PostgresSQL, Hibernate, Spring Boot / Security / Data, JSP, CSS, JS, JSTL, HTML, Log4j, Junit, Mockito Spring Boot (
   Data JPA, Security, Web, Test), Liquibase, PostgresSQL, JUnit, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
