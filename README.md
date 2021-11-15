@@ -17,13 +17,15 @@
 
 ### Study projects
 
-| name                                                              | description                                          | technology                                                                             |                                                 |  |
-|-------------------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------|--|
-| [Urls shortener](https://github.com/kalenikov/job4j_url_shortcut) | URLs shortener service with usage statistics.        | Spring Boot, Spring Security & JWT authorization, Data JPA, PostgresSQL                | https://github.com/kalenikov/job4j_url_shortcut |  |
-| [Chat](https://github.com/kalenikov/job4j_chat)                   | REST-service chat rooms with JWT-authorization .     | Spring Boot, Spring Security & JWT authorization, Data JPA, PostgresSQL                |                                                 |  |
-| [Passport](https://github.com/kalenikov/job4j_passport)           | Checking expired passports in a microservice system. | Spring Boot, Kafka, Docker, Kafka, Liquibase                                           |                                                 |  |
-| [REST](https://github.com/kalenikov/job4j_rest)                   | Обучающий проект на REST                             | Spring Boot (Web, Data, Security, Test), REST, JWT, PostgresSQL                        |                                                 |  |
-| [Forum](https://github.com/kalenikov/job4j_forum)                 | Classical web-forum with registration users and CRUD | Spring Boot (Web, Data, Security, Test), JSP, JSTL, Bootstrap, JS, PostgresSQL, Heroku |                                                 |  |
+| name                                                              | description                                          | technology                                                                             | 
+|-------------------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [Urls shortener](https://github.com/kalenikov/job4j_url_shortcut) | URLs shortener service with usage statistics.        | Spring Boot, Spring Security & JWT authorization, Data JPA, PostgresSQL                |
+| [Chat](https://github.com/kalenikov/job4j_chat)                   | REST-service chat rooms with JWT-authorization .     | Spring Boot, Spring Security & JWT authorization, Data JPA, PostgresSQL                |
+| [Passport](https://github.com/kalenikov/job4j_passport)           | Checking expired passports in a microservice system. | Spring Boot, Kafka, Docker, Kafka, Liquibase                                           |
+| [REST](https://github.com/kalenikov/job4j_rest)                   | Обучающий проект на REST                             | Spring Boot (Web, Data, Security, Test), REST, JWT, PostgresSQL                        |
+| [Forum](https://github.com/kalenikov/job4j_forum)                 | Classical web-forum with registration users and CRUD | Spring Boot (Web, Data, Security, Test), JSP, JSTL, Bootstrap, JS, PostgresSQL, Heroku |
+| [Car accident](https://github.com/kalenikov/job4j_car_accident)                | Classical web-forum with registration users and CRUD | Spring Boot (Web, Data, Security, Test), JSP, JSTL, Bootstrap, JS, PostgresSQL, Heroku |
+| [Cinema](https://github.com/kalenikov/job4j_cinema)                | Cinema-service with seat reservation and then payment |Servlets, JSP, JSTL , JDBC, Liquibase, JS Jquery, Ajax Bootstrap Liquibase Mockito|
 
 - #### [Urls shortener](https://github.com/kalenikov/job4j_url_shortcut)
   URLs shortener service with usage statistics.
