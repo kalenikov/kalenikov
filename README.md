@@ -27,13 +27,12 @@
 | [Cars](https://github.com/kalenikov/job4j_cars)                   | Cars bulletin board with registration users and upload photos           | Servlets, JSTL, Hibernate, Hsqldb, Bootstrap, PostgresSQL                                         |
 | [Todo-list](https://github.com/kalenikov/job4j_todo)              | Classic todo-app                                                        | Servlets, Hibernate, JSP, Bootstrap, jQuery, PostgreSQL                                           |
 | [Dream job](https://github.com/kalenikov/job4j_dreamjob)          | Job search service with resumes and vacancies                           | Servlets, fileupload, dbcp2, mockito, powermock, JSP, PostgresSQL                                 |
-| [Passport](https://github.com/kalenikov/job4j_passport)           | Checking expired passports in a microservice system.                    | Spring Boot (Web, Validation)                                                                     |
+| [Passport](https://github.com/kalenikov/job4j_passport)           | Checking expired passports in a microservice system.                    | Spring Boot (Web, Validation), Kafka, Docker                                                                  |
 | [Grabber](https://github.com/kalenikov/job4j_grabber)             | Console jobs parser from some site                                      | JDBC, Liquibase, JSOUP, Quartz, PostgreSQL                                                        |
 | [Tracker](https://github.com/kalenikov/job4j_tracker)             | Console task tracker with CRUD-operations                               | JDBC, Hibernate, Hsqldb, json, mockito, Docker                                                    |
 | [RGP admin](https://github.com/kalenikov/JavaRushIntership)       | App for the admin of online role-playing game (topjava internship task) | Spring (WebMVC, Data JPA), JSTL, mysql                                                            |
 | [Restaurant app](https://github.com/kalenikov/topjava)            | Restaurant app with dish selection and voting (topjava study project)   | Spring (WebMVC, Data JPA, Security, Test), ehcache, jquery, bootstrap                             |
 | [Admin app](https://github.com/kalenikov/bootjava-admin-app)      | Service for the administration some spring app                          | Spring Boot (Security, Data JPA, Rest, Validation, cache, test)                                   |
-| [Passport](https://github.com/kalenikov/job4j_passport)           | Checking expired passports in a microservice system.                    | Spring Boot, Kafka, Docker
 
 ##### Others study projects
 
